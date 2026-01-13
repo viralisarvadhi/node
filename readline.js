@@ -13,3 +13,4 @@ rl.question(`What's your name?`, name => {
 //output 
 /*What's your name?xyz
 Hi xyz!*/
+//here user have to eneter the name in command line 
